@@ -1,4 +1,4 @@
-/ ==============>> 🚗 Where-Do-I-Belong 🚗 <<============== //
+// ==============>> 🚗 Where-Do-I-Belong 🚗 <<============== //
 
 function getIndexToIns(arr, num) {
     return arr.filter(val => num > val).length;
